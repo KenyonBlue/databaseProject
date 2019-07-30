@@ -6,6 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
+  title = 'kenyon test';
+  description = 'Angular 8 Firebase Demo';
 
   constructor() {
     }
